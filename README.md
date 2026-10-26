@@ -57,12 +57,8 @@ These are starting points, not validated settings. Avoid brittle materials for a
 - Inspect the part before each use. Do not wear if the lock can disengage under light movement, if the band causes discomfort, or if any part is cracked.
 - This project has not undergone formal product safety, material, or wear testing.
 
-## GitHub
 
-Suggested repository name: `tux-twist-lock-headband`
-
-Suggested repository topics: `openscad`, `3d-printing`, `linux`, `tux`, `headband`, `parametric-cad`.
 
 ## License
 
-Source, CAD files, and generated meshes are offered under the MIT License. See `LICENSE`. If you prefer a hardware-specific open-source license, choose and apply it consistently before publishing.
+Source, CAD files, and generated meshes are offered under the MIT License. See `LICENSE`. 
