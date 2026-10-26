@@ -1,0 +1,56 @@
+{
+  "project": "Tux Twist-Lock Headband",
+  "units": "mm",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 25,
+      "sha256": "ed2f84c83aabc926b875e5947a1a4ea73287e65d3b8ab23a3ba156e38dee2fd8"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "bytes": 383,
+      "sha256": "38c911c42b46a7e0b8221014803521edea866f698db1c24a1442e73ed3e88353"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1093,
+      "sha256": "3cd97c2ee4aa40162f999405f1b8779d1393fb16e2fad38ebf67701270f2fcd6"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3974,
+      "sha256": "3ace6ffeb9c5f5248a45e212f4633f803c2f987b23f3e311814c5cda1893bcf6"
+    },
+    {
+      "path": "RELEASE_NOTES.md",
+      "bytes": 477,
+      "sha256": "6f36b92bb987b4353aba6bb15f8ea863ffda1da53ba56c07c7dc6b8d30bcf03e"
+    },
+    {
+      "path": "tux_twistlock.scad",
+      "bytes": 5099,
+      "sha256": "2f71d1b37a6448e9c656596c53bd0524b7fc2df25fe18becbea3ffd5f6ecb3d0"
+    },
+    {
+      "path": "stl/assembly_preview.stl",
+      "bytes": 435470,
+      "sha256": "0c0db7a7266252a5094d8079f95b7c59dca6ca2c03d4358b426e869d7f986fe8"
+    },
+    {
+      "path": "stl/fit_coupon.stl",
+      "bytes": 127391,
+      "sha256": "5b0035bab75f4761f1ac01c74752757cb838ae928904444f14a9068beaa4ae66"
+    },
+    {
+      "path": "stl/headband_socket.stl",
+      "bytes": 291155,
+      "sha256": "1723be6abc1961a4fed8d6b2038471d783bec07d5dcd0c1341dfb4e48524973c"
+    },
+    {
+      "path": "stl/male_adapter.stl",
+      "bytes": 139148,
+      "sha256": "e1451d912b0ed3c68385f724e578b6be1d3914f4e352cae7c5e4dbee3037a8fc"
+    }
+  ]
+}
